@@ -1,0 +1,9 @@
+G:\WallpaperManager\WallpaperDatabase\bin\Debug\WallpaperDatabase.dacpac
+G:\WallpaperManager\WallpaperDatabase\bin\Debug\WallpaperDatabase.dll
+G:\WallpaperManager\WallpaperDatabase\bin\Debug\WallpaperDatabase.pdb
+G:\WallpaperManager\WallpaperDatabase\obj\Debug\Model.xml
+G:\WallpaperManager\WallpaperDatabase\obj\Debug\refactor.xml
+G:\WallpaperManager\WallpaperDatabase\obj\Debug\postdeploy.sql
+G:\WallpaperManager\WallpaperDatabase\obj\Debug\predeploy.sql
+G:\WallpaperManager\WallpaperDatabase\obj\Debug\WallpaperDatabase.dll
+G:\WallpaperManager\WallpaperDatabase\obj\Debug\WallpaperDatabase.pdb

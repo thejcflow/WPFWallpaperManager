@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Wallpaper]
+(
+	[Id] INT IDENTITY(1,1) NOT NULL PRIMARY KEY, 
+    [Name] VARCHAR(MAX) NOT NULL,
+    [Image] VARBINARY(MAX) NOT NULL 
+)

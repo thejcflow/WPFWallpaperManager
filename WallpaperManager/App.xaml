@@ -1,0 +1,10 @@
+﻿<Application x:Class="WallpaperManager.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WallpaperManager"
+             xmlns:s="clr-namespace:System;assembly=mscorlib"
+             Startup="OnStartup">
+    <Application.Resources>
+        <s:String x:Key="ConnectionString">Data Source=(localdb)\ProjectsV13;Initial Catalog=WallpaperDatabase;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False</s:String>
+    </Application.Resources>
+</Application>
